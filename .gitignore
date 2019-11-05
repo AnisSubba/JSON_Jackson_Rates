@@ -2,3 +2,4 @@
 .idea
 target
 jacksonRates.iml
+src/main/test/java/com.spartaglobal.jacksonRates.config.APIKey.java
